@@ -7,7 +7,7 @@ const Login: React.FC = () => {
   return (
     <AuthLayout
       title="Welcome Back"
-      description="Sign in to your AgriTrust account"
+      description="Sign in to your account"
     >
       <LoginForm />
     </AuthLayout>
